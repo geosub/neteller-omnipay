@@ -1,5 +1,5 @@
 {
-    "name": "alfaproject/omnipay-neteller",
+    "name": "geosub/neteller-omnipay",
     "type": "library",
     "description": "Neteller driver for the Omnipay payment processing library",
     "keywords": [
@@ -10,7 +10,7 @@
         "pay",
         "payment"
     ],
-    "homepage": "https://github.com/alfaproject/omnipay-neteller",
+    "homepage": "https://github.com/geosub/neteller-omnipay",
     "license": "MIT",
     "authors": [
         {
